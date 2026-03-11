@@ -6,7 +6,7 @@ import FilterBar from './components/FilterBar';
 import Logo from './components/Logo';
 
 // TMDB API Configuration
-const API_KEY = '8265bd1679663a7ea12ac168da84d2e8';
+const API_KEY = 'b4b5e8e8179ff65a73963c15f32fd07c';
 const BASE_URL = 'https://api.themoviedb.org/3';
 
 export interface Movie {
