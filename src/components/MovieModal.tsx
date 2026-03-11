@@ -26,7 +26,7 @@ interface Video {
   official: boolean;
 }
 
-const API_KEY = '8265bd1679663a7ea12ac168da84d2e8';
+const API_KEY = 'b4b5e8e8179ff65a73963c15f32fd07c';
 const BASE_URL = 'https://api.themoviedb.org/3';
 const IMAGE_BASE_URL = 'https://image.tmdb.org/t/p';
 
